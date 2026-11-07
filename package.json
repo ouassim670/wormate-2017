@@ -1,0 +1,8 @@
+{
+  "name": "wormate-2017-host-launcher",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd wormate-deploy && node server.cjs"
+  }
+}
